@@ -13,3 +13,5 @@
 - [MSDN: Commanding Overview](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/commanding-overview?redirectedfrom=MSDN)
 ### Android
 - [ConstraintLayout](https://constraintlayout.com/)
+### Entity Framework Core
+- [Entity Framework Core Part 1](https://www.youtube.com/watch?v=xx5_pVsLP44)
