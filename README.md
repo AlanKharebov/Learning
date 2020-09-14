@@ -16,3 +16,5 @@
 ### Entity Framework Core
 - [Entity Framework Core Part 1](https://www.youtube.com/watch?v=xx5_pVsLP44)
 - [Learn Entity Framework Core 5](https://www.learnentityframeworkcore5.com)
+- [Entity Framework Tutorial](https://www.entityframeworktutorial.net/)
+
