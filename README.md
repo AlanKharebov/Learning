@@ -17,4 +17,6 @@
 - [Entity Framework Core Part 1](https://www.youtube.com/watch?v=xx5_pVsLP44)
 - [Learn Entity Framework Core 5](https://www.learnentityframeworkcore5.com)
 - [Entity Framework Tutorial](https://www.entityframeworktutorial.net/)
+#### Build 2020
+- [Everything you need to know about WinUI](https://mybuild.microsoft.com/sessions/7d5b56db-d367-43ac-9163-44de4e3919e8?source=sessions)
 
