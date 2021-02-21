@@ -13,6 +13,8 @@
 - [MSDN: Commanding Overview](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/commanding-overview?redirectedfrom=MSDN)
 ### Android
 - [ConstraintLayout](https://constraintlayout.com/)
+- [Maps SDK for Android Utility Library](https://github.com/googlemaps/android-maps-utils)
+- [Build your own Current Place picker for Android](https://developers.google.com/codelabs/maps-platform/location-places-android#0)
 ### Entity Framework Core
 - [Entity Framework Core Part 1](https://www.youtube.com/watch?v=xx5_pVsLP44)
 - [Learn Entity Framework Core 5](https://www.learnentityframeworkcore5.com)
