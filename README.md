@@ -8,7 +8,7 @@
 ### .NET Core
  - [Equivalent to UserSettings / ApplicationSettings in WPF .NET 5, .NET 6 or .Net Core](https://stackoverflow.com/questions/56847571/equivalent-to-usersettings-applicationsettings-in-wpf-net-5-net-6-or-net-c)
  - [User Configuration Settings in .NET Core](https://stackoverflow.com/questions/51351464/user-configuration-settings-in-net-core)
-
+- [Looking inside ConfigurationManager in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-1-looking-inside-configurationmanager-in-dotnet-6/)
 ### WPF
 - [WPF 4.5 Unleashed](https://www.amazon.com/gp/product/B00DW7PLIE/ref=dbs_a_def_rwt_bibl_vppi_i0)
 - [Understanding Templates in WPF](https://joshsmithonwpf.wordpress.com/2008/06/15/understanding-templates-in-wpf/)
