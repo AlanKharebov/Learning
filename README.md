@@ -15,6 +15,9 @@
 - [ControlTemplate vs. DataTemplate vs. HierarchicalDataTemplate vs. ItemsPanelTemplate](https://nirajrules.wordpress.com/2009/03/08/controltemplate-vs-datatemplate-vs-hierarchicaldatatemplate-vs-itemspaneltemplate/)
 - [Binding ComboBox SelectedItem using MVVM](https://stackoverflow.com/questions/19632270/binding-combobox-selecteditem-using-mvvm)
 - [MSDN: Commanding Overview](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/commanding-overview?redirectedfrom=MSDN)
+### ASP.NET Core
+- [Introducing ASP.NET Core](https://www.linkedin.com/learning/introducing-asp-dot-net-core?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a7e1728498eb83924bbb827)
+- [ASP.NET Core: Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a7e1728498eb83924bbb827)
 ### Android
 - [ConstraintLayout](https://constraintlayout.com/)
 - [Maps SDK for Android Utility Library](https://github.com/googlemaps/android-maps-utils)
